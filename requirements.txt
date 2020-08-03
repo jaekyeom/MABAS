@@ -1,0 +1,9 @@
+h5py
+scipy
+tensorboardX
+https://download.pytorch.org/whl/cu100/torch-1.1.0-cp27-cp27mu-linux_x86_64.whl
+torchnet==0.0.4
+torchvision==0.2.2.post2
+tqdm
+python-dateutil
+matplotlib
