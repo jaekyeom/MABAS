@@ -1,9 +1,25 @@
 ## Model-Agnostic Boundary-Adversarial Sampling for Test-Time Generalization in Few-Shot Learning  
 #### In ECCV 2020 (Oral)
-*[Jaekyeom Kim](https://jaekyeom.github.io/), Hyoungseok Kim, and [Gunhee Kim](http://vision.snu.ac.kr/~gunhee/)*  
-[[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460579.pdf) [[appx]](https://drive.google.com/uc?id=1LhdzmuHBxOOoxrJYf9nR4pVOTOhyX_K4) [[code]](https://github.com/jaekyeom/MABAS)
 
-This repository provides the source code for the application of our method to [Dynamic Few-Shot Visual Learning without Forgetting](https://arxiv.org/abs/1804.09458).
+This is the code for our paper,
+* *[Jaekyeom Kim](https://jaekyeom.github.io/), Hyoungseok Kim, and [Gunhee Kim](http://vision.snu.ac.kr/gunhee/)*. Model-Agnostic Boundary-Adversarial Sampling for Test-Time Generalization in Few-Shot Learning. In *ECCV*, 2020. [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460579.pdf) [[appx]](https://drive.google.com/uc?id=1LhdzmuHBxOOoxrJYf9nR4pVOTOhyX_K4) [[talk]](https://www.youtube.com/watch?v=XueZpAMsaOU) [[slides]](https://drive.google.com/uc?id=1V36tbtmvYVP3xZ30-zg0FTtWz0jervJz)
+
+This is the application of our method to [Dynamic Few-Shot Visual Learning without Forgetting](https://arxiv.org/abs/1804.09458).
+
+### Citing the paper
+If you find our work or this code useful in your research, please cite
+
+```bibtex
+@inproceedings{kim2020_mabas,
+    title={Model-Agnostic Boundary-Adversarial Sampling For Test-Time Generalization in Few-Shot Learning},
+    author={Kim, Jaekyeom and Kim, Hyoungseok and Kim, Gunhee},
+    booktitle={Computer Vision--ECCV 2020: 16th European Conference, Glasgow, UK, August 23--28, 2020, Proceedings, Part I 16},
+    pages={599--617},
+    year={2020},
+    organization={Springer}
+}
+```
+
 
 ### Environment setup
 You can create a conda environment by  
